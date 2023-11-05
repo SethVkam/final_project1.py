@@ -6,7 +6,7 @@
 
 ## Референсы, которые мне пригодятся
 - [Референс](https://dzen.ru/a/WdN3rYyL41nK4bR2)
-- [Референс] (https://formaxfun.com/10-samyh-gryaznyh-gorodov-rossii-2018-po-ekologii-spisok-minprirody/)
+- [Референс](https://formaxfun.com/10-samyh-gryaznyh-gorodov-rossii-2018-po-ekologii-spisok-minprirody/)
 
 ## Гайды-статьи, где есть полезная для меня информация
 Статьи с которых я буду брать информацию:
